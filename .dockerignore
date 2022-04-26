@@ -1,0 +1,10 @@
+.git
+.gitignore
+Dockerfile*
+docker-compose*
+README.md
+LICENSE
+.vscode
+__pycache__
+/build-android
+/build-common
